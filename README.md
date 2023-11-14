@@ -6,7 +6,7 @@
 ## How to cite this data
 ```tex
   author       = {Alexa R. Heaton, Nathaniel J. Burkard, Paul M. Sondel, Melissa C. Skala},
-  title        = {Quantifying <i>in vivo</i> collagen reorganization during immunotherapy in murine melanoma with second harmonic generation imaging},
+  title        = {Quantifying in vivo collagen reorganization during immunotherapy in murine melanoma with second harmonic generation imaging},
   month        = ,
   year         = 2023,
   publisher    = {Zenodo},
