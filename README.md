@@ -7,10 +7,10 @@
 ```tex
   author       = {Alexa R. Heaton, Nathaniel J. Burkard, Paul M. Sondel, Melissa C. Skala},
   title        = {Quantifying in vivo collagen reorganization during immunotherapy in murine melanoma with second harmonic generation imaging},
-  month        = ,
+  month        = november,
   year         = 2023,
-  publisher    = {Zenodo},
+  publisher    = {bioRxiv},
   version      = {v1.0},
-  doi          = {},
+  doi          = {https://doi.org/10.1101/2023.11.09.566407},
   url          = {https://github.com/skalalab/heaton_a-in-vivo-collagen-SHG-data}
 ```
